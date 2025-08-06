@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 現在取り組んでいること: マイクラのアドオン開発・バックエンドを主としたWeb技術
+- 🌱 学習中: React, rail
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gaaaami0307&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaaaami0307&layout=compact&theme=tokyonight)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ユーザー名)
