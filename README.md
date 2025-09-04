@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 現在取り組んでいること: マイクラのアドオン開発・バックエンドを主としたWeb技術
-- 🌱 学習中: React, rail
+- 🌱 学習中: React, rail, ScriptAPI
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gaaaami0307&show_icons=true&theme=tokyonight)
 
