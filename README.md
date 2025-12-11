@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 学習中: React, rail, ScriptAPI, TailwindCSS
 
 ![github stats](https://github-readme-stats-omega-two-14.vercel.app/api/?username=gaaaami0307)
-![top langs](https://github-readme-stats-omega-two-14.vercel.app/api/top-langs/?username=gaaaami0307]
+![top langs](https://github-readme-stats-omega-two-14.vercel.app/api/top-langs/?username=gaaaami0307)
 
 - 🛠️技術スタック
 <p align="left">
