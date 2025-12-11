@@ -16,13 +16,22 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 現在取り組んでいること: マイクラのアドオン開発・バックエンドを主としたWeb技術
-- 🌱 学習中: React, rail, ScriptAPI
+- 🌱 学習中: React, rail, ScriptAPI, TailwindCSS
 
-<a href="https://github.com/gaaaami0307">
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true"
-  />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=gaaaami0307&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaaami0307&layout=compact&theme=tokyonight" />
 
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/gaaaami0307)
+- 🛠️技術スタック
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-EF642D?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/TailWindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/RubyonRails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=X&logoColor=white)](https://twitter.com/gaaaami0307)
