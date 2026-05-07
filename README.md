@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![github stats](https://github-readme-stats-omega-two-14.vercel.app/api/?username=gaaaami0307)
 
 - 🧰今まで作った物
-  <dl>
+<dl>
 <dt>
   rails+dockerを用いた映画館予約サイト(TechTrainのrailway)
 </dt>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <dd>
   <a href="https://github.com/gaaaami0307/React_BB"> link to github repository </a>
 </dd>
-  </dl>
+</dl>
 
 - 🛠️技術スタック
 <p align="left">
