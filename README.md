@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 ![github stats](https://github-readme-stats-omega-two-14.vercel.app/api/?username=gaaaami0307)
 
 - 🧰今まで作った物
-・rails+dockerを用いた映画館予約サイト(TechTrainのrailway)
-・バックエンド,DB設計,環境構築を担当したAI入りのTODOアプリ(ハッカソン)
-・vite+TailwindCSS+React.jsを用いた簡易掲示板
+<ul>
+<li>rails+dockerを用いた映画館予約サイト(TechTrainのrailway)</li>
+<li>バックエンド,DB設計,環境構築を担当したAI入りのTODOアプリ(ハッカソン)</li>
+<li>vite+TailwindCSS+React.jsを用いた簡易掲示板</li>
+</ul>
 
 - 🛠️技術スタック
 <p align="left">
