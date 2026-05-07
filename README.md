@@ -21,11 +21,20 @@ Here are some ideas to get you started:
 ![github stats](https://github-readme-stats-omega-two-14.vercel.app/api/?username=gaaaami0307)
 
 - 🧰今まで作った物
-<ul>
-<li>rails+dockerを用いた映画館予約サイト(TechTrainのrailway)</li>
-<li>バックエンド,DB設計,環境構築を担当したAI入りのTODOアプリ(ハッカソン)</li>
-<li>vite+TailwindCSS+React.jsを用いた簡易掲示板</li>
-</ul>
+<dl>
+<dt>rails+dockerを用いた映画館予約サイト(TechTrainのrailway)</dt>
+<dd>
+  no link
+</dd>
+<dt>バックエンド,DB設計,環境構築を担当したAI入りのTODOアプリ(ハッカソン)</dt>
+<dd>
+  <a href="https://github.com/gaaaami0307/Re-AizuHack2025"> link to github repository </a>
+</dd>
+<dt>vite+TailwindCSS+React.jsを用いた簡易掲示板</dt>
+<dd>
+  <a href="https://github.com/gaaaami0307/React_BB"> link to github repository </a>
+</dd>
+</dl>
 
 - 🛠️技術スタック
 <p align="left">
