@@ -1,48 +1,57 @@
-## Welcome to my profile 👋
 
-<!--
-**gaaaami0307/gaaaami0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my profile 👋
 
-Here are some ideas to get you started:
+### 🔭 現在取り組んでいること 
+マイクラのアドオン開発・バックエンドを主としたWeb技術
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-- 🔭 現在取り組んでいること: マイクラのアドオン開発・バックエンドを主としたWeb技術
-- 🌱 学習中: React, rail, ScriptAPI, TailwindCSS
+### 🌱 学習中
+React, rail, ScriptAPI, TailwindCSS
 
-![github stats](https://github-readme-stats-omega-two-14.vercel.app/api/?username=gaaaami0307)
+---
 
-- 🧰今まで作った物
+### 🧰今まで作った物
 <dl>
+  
 <dt>
   rails+dockerを用いた映画館予約サイト(TechTrainのrailway)
 </dt>
 <dd>
   no link
 </dd>
+  
 <dt>
   バックエンド,DB設計,環境構築を担当したAI入りのTODOアプリ(ハッカソン)
 </dt>
 <dd>
   <a href="https://github.com/gaaaami0307/Re-AizuHack2025"> link to github repository </a>
 </dd>
+
 <dt>
   vite+TailwindCSS+React.jsを用いた簡易掲示板
 </dt>
 <dd>
   <a href="https://github.com/gaaaami0307/React_BB"> link to github repository </a>
 </dd>
+
 </dl>
 
-- 🛠️技術スタック
+---
+
+### 📌現在作成中
+<dl>
+<dt>
+  Githubのコミット状況を元にモチベーションを上げるアプリ(仮)
+</dt>
+<dd>
+  <a href="https://github.com/gaaaami0307/Github-streak-app"> link to github repository </a>
+</dd>
+</dl>
+
+---
+
+### 🛠️技術スタック
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-EF642D?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
@@ -55,4 +64,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
+---
+
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=X&logoColor=white)](https://twitter.com/gaaaami0307)
+
+![github stats](https://github-readme-stats-omega-two-14.vercel.app/api/?username=gaaaami0307)
