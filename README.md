@@ -66,6 +66,4 @@ React, rail, ScriptAPI, TailwindCSS
 
 ---
 
-[![X](https://img.shields.io/badge/X-1DA1F2?logo=X&logoColor=white)](https://twitter.com/gaaaami0307)
-
 ![github stats](https://github-readme-stats-omega-two-14.vercel.app/api/?username=gaaaami0307)
